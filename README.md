@@ -16,7 +16,7 @@
 
 ## How to use
 
-You can see all available sets using next code:
+You can see all available sets and their actual locations using the next code:
 
 ```
 >>> from tinysets import get_all_sets
@@ -31,7 +31,7 @@ You can use pip to install evaluations:
 ```
 pip install tinysets
 ```
-You can clone and install the latest version of the library from GitHub:
+Or you can clone and install the latest version of the library from GitHub:
 ```
 pip install -U git+https://github.com/yisaienkov/tinysets
 ```
@@ -46,7 +46,7 @@ This dataset contains pictures of various LEGO Minifigures. There are several
 images in different poses and with different environments for each Minifigure in
 the dataset.
 
-Currently it contains 7 figures from the LEGO sets
+Currently, it contains 7 figures (75 images totally) from the LEGO sets
 [Yoda's Hut](https://www.lego.com/en-us/product/yoda-s-hut-75208),
 [Spider Mech vs. Venom](https://www.lego.com/en-us/product/spider-mech-vs-venom-76115).
 
