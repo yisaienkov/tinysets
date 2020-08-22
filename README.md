@@ -11,8 +11,8 @@
 - [Installation](#installation)
   - [PyPI](#pypi)
 - [Datasets](#datasets)
-  - [LEGO Minifigures Classification](#legominifiguresclassification)
-  - [Ukrainian Descriptions Of Words](#ukrainiandescriptionsofwords)
+  - [LEGO Minifigures Classification](#lego-minifigures-classification)
+  - [Ukrainian Descriptions Of Words](#ukrainian-descriptions-of-words)
 
 
 ## How to use
@@ -22,7 +22,14 @@ You can see all available sets and their actual locations using the next code:
 ```
 >>> from tinysets import get_all_sets
 >>> get_all_sets()
-{'LEGO Minifigures Classification': ['https://www.kaggle.com/ihelon/lego-minifigures-classification']}'
+{
+    'LEGO Minifigures Classification': [
+        'https://www.kaggle.com/ihelon/lego-minifigures-classification'
+    ],
+    'Ukrainian Descriptions Of Words': [
+        'https://www.kaggle.com/ihelon/ukrainian-descriptions-of-words'
+    ]
+}
 ```
 
 ## Installation
