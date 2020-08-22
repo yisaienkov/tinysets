@@ -11,8 +11,8 @@
 - [Installation](#installation)
   - [PyPI](#pypi)
 - [Datasets](#datasets)
-  - [LEGO Minifigures Classification](#LEGOMinifiguresClassification)
-  - [Ukrainian Descriptions Of Words](#UkrainianDescriptionsOfWords)
+  - [LEGO Minifigures Classification](#legominifiguresclassification)
+  - [Ukrainian Descriptions Of Words](#ukrainiandescriptionsofwords)
 
 
 ## How to use
