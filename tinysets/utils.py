@@ -21,4 +21,7 @@ def get_all_sets() -> Dict[str, List[str]]:
         'LEGO Minifigures Classification': [
             "https://www.kaggle.com/ihelon/lego-minifigures-classification",
         ],
+        'Ukrainian Descriptions Of Words': [
+            'https://www.kaggle.com/ihelon/ukrainian-descriptions-of-words',
+        ]
     }
