@@ -54,9 +54,18 @@ This dataset contains pictures of various LEGO Minifigures. There are several
 images in different poses and with different environments for each Minifigure in
 the dataset.
 
-Currently, it contains 7 figures (76 images totally) from the LEGO sets
+Currently, it contains 28 figures (more than 300 images totally) from the LEGO sets
 [Yoda's Hut](https://www.lego.com/en-us/product/yoda-s-hut-75208),
-[Spider Mech vs. Venom](https://www.lego.com/en-us/product/spider-mech-vs-venom-76115).
+[Spider Mech vs. Venom](https://www.lego.com/en-us/product/spider-mech-vs-venom-76115),
+[General Grievous' Combat Speeder](https://www.lego.com/en-us/product/general-grievous-combat-speeder-75199),
+[Kylo Ren's Shuttle™ Microfighter](https://www.lego.com/en-us/product/kylo-ren-s-shuttle-microfighter-75264),
+[AT-ST™ Raider from The Mandalorian](https://www.lego.com/en-us/product/at-st-raider-75254),
+[Molten Man Battle](https://www.lego.com/en-us/product/molten-man-battle-76128),
+[Aragog's Lair](https://www.lego.com/en-us/product/aragog-s-lair-75950),
+[Black Widow's Helicopter Chase](https://www.lego.com/en-us/product/black-widow-s-helicopter-chase-76162),
+[Captain America: Outriders Attack](https://www.lego.com/en-us/product/captain-america-outriders-attack-76123),
+[Pteranodon Chase](https://www.lego.com/en-us/product/pteranodon-chase-75926),
+[Iron Man Hall of Armor](https://www.lego.com/en-us/product/iron-man-hall-of-armor-76125).
 
 This dataset is available in [Kaggle Datasets](https://www.kaggle.com/ihelon/lego-minifigures-classification)
 
